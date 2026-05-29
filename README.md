@@ -1,4 +1,4 @@
-# 🌐 DNS Management & Troubleshooting Lab
+# 🌐 DNS Management Lab
 
 ## 📌 Overview
 This lab demonstrates DNS management and troubleshooting in a Windows Active Directory environment. The project focuses on creating and modifying DNS records, testing name resolution, analyzing DNS cache behavior, and configuring CNAME records.
