@@ -52,7 +52,14 @@ nslookup mainframe
 ```
 
 ### Screenshot
-(Add screenshot here)
+
+<img width="974" height="509" alt="image" src="https://github.com/user-attachments/assets/0e2afe57-0fcc-4d35-ac0c-d3bd8f152e3d" />
+
+<img width="750" height="526" alt="image" src="https://github.com/user-attachments/assets/8b52785d-4a9a-476e-98ba-164373919499" />
+
+<img width="975" height="387" alt="image" src="https://github.com/user-attachments/assets/bc0f6d1b-cdeb-438e-9a48-420da3541101" />
+
+<img width="472" height="234" alt="image" src="https://github.com/user-attachments/assets/e8f40eb4-4713-44ae-a039-b92918a0d896" />
 
 ---
 
@@ -76,7 +83,16 @@ ping mainframe
 ```
 
 ### Screenshot
-(Add screenshot here)
+
+<img width="752" height="522" alt="image" src="https://github.com/user-attachments/assets/f9c678cc-38e1-406c-9a7d-b860f60ed560" />
+
+<img width="976" height="508" alt="image" src="https://github.com/user-attachments/assets/7b72cf0b-0059-4db3-a747-50b0782e56ab" />
+
+<img width="543" height="224" alt="image" src="https://github.com/user-attachments/assets/c723d966-273b-4c34-814c-9e33a66c845b" />
+
+<img width="478" height="223" alt="image" src="https://github.com/user-attachments/assets/fd7f2ee2-561d-4589-a33f-e93a57b87005" />
+
+<img width="564" height="541" alt="image" src="https://github.com/user-attachments/assets/979fb5f3-276c-45b4-9440-7b83e16faaf4" />
 
 ---
 
@@ -97,8 +113,11 @@ ping search
 nslookup search
 ```
 
-### Screenshot
-(Add screenshot here)
+<img width="747" height="527" alt="image" src="https://github.com/user-attachments/assets/a063cdb0-71a3-4978-95c1-a1fbfc0e780f" />
+
+<img width="546" height="538" alt="image" src="https://github.com/user-attachments/assets/03c4e27a-2584-4bb2-b13d-5e94ab092e3f" />
+
+<img width="764" height="326" alt="image" src="https://github.com/user-attachments/assets/3a0f026d-b95b-48e7-b78f-fb59d61eb2df" />
 
 ---
 
