@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,45:047857,75:0D9488,100:2DD4BF&height=180&section=header&text=Windows%20DNS%20Management%20and%20Troubleshooting%20Lab&fontSize=31&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%">
 
 # 🌐 Windows DNS Management & Troubleshooting Lab
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0fd2fb3-5541-494d-a268-c4c1df192c16" />
 
 ## 📌 Overview
 This lab demonstrates DNS management and troubleshooting in a Windows Active Directory environment. The project focuses on creating and modifying DNS records, testing name resolution, analyzing DNS cache behavior, and configuring CNAME records.
 
 The lab simulates real-world troubleshooting tasks commonly performed in IT support, systems administration, and network administration roles.
-
----
 
 # 🧰 Technologies Used
 - Microsoft Azure
@@ -17,8 +16,6 @@ The lab simulates real-world troubleshooting tasks commonly performed in IT supp
 - DNS
 - Command Prompt
 - TCP/IP Networking
-
----
 
 # 🖥️ Lab Environment
 
@@ -31,7 +28,6 @@ The lab simulates real-world troubleshooting tasks commonly performed in IT supp
 - Virtual Network: `hd-vnet`
 - Resource Group: `hd-lab`
 
----
 
 # 🔬 Lab Activities
 
