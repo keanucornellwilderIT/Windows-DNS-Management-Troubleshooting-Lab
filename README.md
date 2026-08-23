@@ -3,12 +3,12 @@
 # 🌐 Windows DNS Management & Troubleshooting Lab
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d0fd2fb3-5541-494d-a268-c4c1df192c16" />
 
-## 📌 Overview
+##  Overview
 This lab demonstrates DNS management and troubleshooting in a Windows Active Directory environment. The project focuses on creating and modifying DNS records, testing name resolution, analyzing DNS cache behavior, and configuring CNAME records.
 
 The lab simulates real-world troubleshooting tasks commonly performed in IT support, systems administration, and network administration roles.
 
-# 🧰 Technologies Used
+#  Technologies Used
 - Microsoft Azure
 - Windows Server
 - Windows 10/11
@@ -29,7 +29,7 @@ The lab simulates real-world troubleshooting tasks commonly performed in IT supp
 - Resource Group: `hd-lab`
 
 
-# 🔬 Lab Activities
+#  Lab Activities
 
 ## A-Record Configuration & Testing
 
@@ -119,30 +119,21 @@ nslookup search
 
 ---
 
-# 🛠️ Troubleshooting Scenarios
-
-## DNS Resolution Troubleshooting
+#  Troubleshooting Scenarios
 - Diagnosed failed hostname resolution
 - Verified DNS record creation and propagation
 - Tested DNS functionality from the client machine
-
----
-
-## DNS Cache Troubleshooting
 - Analyzed cached DNS records
 - Verified stale DNS entries
 - Flushed the local DNS cache to update name resolution
-
----
 
 ## CNAME Resolution Testing
 - Configured alias-based hostname resolution
 - Verified successful DNS alias functionality
 - Tested external hostname mapping through DNS
 
----
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 - DNS administration
 - A-record configuration
 - CNAME configuration
@@ -151,9 +142,3 @@ nslookup search
 - Name resolution testing
 - Active Directory networking
 - Command-line troubleshooting
-
----
-
-# 👨‍💻 Author
-Keanu  
-Aspiring Network / Cloud Administrator
