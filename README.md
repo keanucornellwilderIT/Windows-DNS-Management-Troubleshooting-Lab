@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,45:047857,75:0D9488,100:2DD4BF&height=180&section=header&text=Windows%20DNS%20Management%20and%20Troubleshooting%20Lab&fontSize=31&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" width="100%">
+
 # 🌐 Windows DNS Management & Troubleshooting Lab
 
 ## 📌 Overview
